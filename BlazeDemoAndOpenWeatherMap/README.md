@@ -5,6 +5,8 @@ This project contains the following:
 - UI Automation Test Cases of booking flight in Blaze Demo application.
 - API Automation Test Cases to know the current weather update for the city using OpenWeatherMap api
 
+Note: This project works with chromebrowser v86, If your chromebrowser is of different version, Please download respective chromedriver and replace in 'BlazeDemoAndOpenWeatherMap' folder.
+
 To execute the automated test and view the report:
 - Double Click 'runAutomatedTestAndViewReport.cmd' in 'BlazeDemoAndOpenWeatherMap' project/folder.
 
